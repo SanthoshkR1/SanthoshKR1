@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 MSc IT Student specializing in AI, ML, and Data Science<br>🖥️ Skilled in Python, Java, DBMS, C, and C++<br>📊 Focused on Data Science, Machine Learning, NLP, and Computer Vision<br>🤖 Passionate about AI and exploring innovative solutions<br>
+🎓 MSc IT Student specializing in AI, ML, and Data Science<br>🖥️ Skilled in Python,SQL, Java, DBMS, C, and C++<br>📊 Focused on Data Science, Machine Learning, NLP, and Computer Vision<br>🤖 Passionate about AI and exploring innovative solutions<br>
 
 
 ## 🌐 Socials:
