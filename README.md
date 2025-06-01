@@ -1,9 +1,9 @@
 # 💫 About Me:
 🎓 🎓 MSc IT Student specializing in AI, ML, and Data Science
-🖥️ Skilled in Python, SQL, Java, DBMS, C, and C++
+🖥️ Skilled in Python, SQL, Java, DBMS
 📊 Aspiring Data Analyst with a strong foundation in data cleaning, visualization, statistical analysis, and storytelling through data
 📈 Proficient in tools like Excel, Pandas, NumPy, Matplotlib, and Power BI for data-driven decision-making
-🧠 Focused on uncovering insights using Machine Learning, NLP, and Computer Vision
+🧠 Focused on uncovering insights using Machine Learning
 🤖 Passionate about AI and leveraging data to solve real-world problems<br>
 
 
