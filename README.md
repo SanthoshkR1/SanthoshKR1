@@ -2,7 +2,7 @@
 💻 I’m currently working on Data Analytics projects and learning how to leverage AI and ML in my projects.<br>🌱 Currently deepening my skills in Python, SQL, Excel, and Power BI.<br>📫 How to reach me: santhoshkr366@gmail.com<br>⚡ Fun fact: I have an equally comparable streak on my fitness routine
 
 
-# Let's Connect:
+# 🤝 Let's Connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_._santhosh_._shetty/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santhosh-k-r-aa1426277/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@santhoshkr366) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santhoshkr366@gmail.com) 
 
 # 💻 Tech Stack:
