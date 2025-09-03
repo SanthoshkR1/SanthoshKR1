@@ -1,7 +1,7 @@
 # 💫 About Me:
 💻I’m currently working on Data Analytics projects and learning how to leverage AI and ML in my projects.<br>
 🌱 Currently deepening my skills in Python, SQL, Excel, and Power BI. <br>
-📊 📫 How to reach me: santhoshkr366@gmail.com<br>
+📫 How to reach me: santhoshkr366@gmail.com<br>
 📈 Proficient in tools like Excel, Pandas, NumPy, Matplotlib, and Power BI for data-driven decision-making<br>
 
 
