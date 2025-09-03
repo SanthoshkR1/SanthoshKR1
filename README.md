@@ -1,6 +1,6 @@
 💻 I’m currently working on Data Analytics projects and learning how to leverage AI and ML in my projects.  
 🌱 Currently deepening my skills in Python, SQL, Excel, and Power BI.  
-📫 How to reach me: santhoshkr366@gmail.com@gmail.com  
+📫 How to reach me: santhoshkr366@gmail.com  
 ⚡ Fun fact: I have an equally comparable streak on my  fitness routine  
 
 ## 🌐 Socials:
